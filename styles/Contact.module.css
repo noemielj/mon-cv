@@ -1,0 +1,45 @@
+.body {
+
+	width: 100vw;
+	height: 50vw;
+	background-color: #6E8B81;
+}
+.container {
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	padding: 60px;
+}
+
+.coordonnees {
+	display: flex;
+	flex-direction: column;
+	}
+
+.info-text {
+	margin-left: 10px;
+	margin-bottom: 40px;
+}
+.input {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 2px solid #6E8B81;
+	border-radius: 5px;
+	box-sizing: border-box;
+	margin-top: 10px;
+}
+
+.buttonSubmit {
+	color: #6E8B81;
+	background-color: white;
+	padding: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	border: none;
+	cursor: pointer;
+	font-size: 16px;
+	font-weight: bold;
+}
