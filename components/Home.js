@@ -77,7 +77,7 @@ function Home() {
           </div>
         </div>
         <h1 className={styles.heading}>Noëmie Louis-Joseph</h1>
-        <p className={styles.subheading}>Développeuse Well FullStack Junior</p>
+        <p className={styles.subheading}>Développeuse Web FullStack Junior</p>
       </div>
 
       <div className={styles.cardContainer}>
@@ -121,7 +121,8 @@ function Home() {
         <img src="/img.js.png" alt="javascript" className={styles.image} />
         <img src="/img.nodejs.png" alt="nodejs" className={styles.image} />
         <img src="/img.react.png" alt="react" className={styles.image} />
-        <img src="/img.wp.png" alt="Wordpress" className={styles.image} />
+        <img src="/wordpress.png" alt="Wordpress" className={styles.image} />
+        <img src="/php.png" alt="php" className={styles.image} />
       </div>
 
       <h2>Mes projets</h2>
