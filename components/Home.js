@@ -51,7 +51,10 @@ function Home() {
           okText="Je prends note"
           cancelText="Je te contacte rapidement"
         >
-          <p>Psss... Je suis à la recherche d'un poste de développeuse web !</p>
+          <p>
+            Psss... Je suis à la recherche d'un poste de développeuse web en
+            Vendée ou Remote !
+          </p>
         </Modal>
       </>
       <div className={styles.header}>
